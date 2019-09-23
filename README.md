@@ -1,0 +1,2 @@
+# gaussian_proccess_and_machine_learning
+Codes for understanding gaussian process
